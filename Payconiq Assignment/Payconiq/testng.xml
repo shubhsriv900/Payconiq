@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Payconiq CRUD">
+    <test name="testngTest">
+        <classes>
+            <class name="com.payconiq.api.apitests.CRUDTests" />
+            <class name="com.payconiq.api.apitests.CornerTests" />
+        </classes>
+    </test>
+</suite>

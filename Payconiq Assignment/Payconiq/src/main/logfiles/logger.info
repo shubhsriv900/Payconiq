@@ -1,0 +1,56 @@
+2018-09-10 01:43:57 INFO  BaseTest:51 - Create Headers for all requests
+2018-09-10 01:43:57 INFO  BaseTest:17 - Create gist Operation Class
+2018-09-10 01:44:00 INFO  BaseTest:24 - Check Gist is created successfully
+2018-09-10 01:44:00 INFO  BaseTest:28 - Getting Gist ID from created Gist
+2018-09-10 01:44:01 INFO  BaseTest:34 - Check that newly created gist is retrieved
+2018-09-10 01:44:01 INFO  BaseTest:47 - Random word created [C@550ee7e5
+2018-09-10 01:44:01 INFO  BaseTest:48 - Update the Gist created with the new random word in file descriptions [C@550ee7e5
+2018-09-10 01:44:03 INFO  BaseTest:52 - Check that Update is done successfully
+2018-09-10 01:44:04 INFO  BaseTest:57 - Check that update gist is retrieved
+2018-09-10 01:44:04 INFO  BaseTest:61 - Check that newly added word exist in the file dedscription
+2018-09-10 01:44:04 INFO  BaseTest:72 - Check that the created gist is deleted successfully
+2018-09-10 01:44:05 INFO  BaseTest:77 - Check that the deleted gist is deleted already and we get not found code
+2018-09-10 01:44:40 INFO  BaseTest:51 - Create Headers for all requests
+2018-09-10 01:44:40 INFO  BaseTest:17 - Create gist Operation Class
+2018-09-10 01:44:43 INFO  BaseTest:24 - Check Gist is created successfully
+2018-09-10 01:44:43 INFO  BaseTest:28 - Getting Gist ID from created Gist
+2018-09-10 01:44:44 INFO  BaseTest:34 - Check that newly created gist is retrieved
+2018-09-10 01:44:44 INFO  BaseTest:47 - Random word created [C@48974e45
+2018-09-10 01:44:44 INFO  BaseTest:48 - Update the Gist created with the new random word in file descriptions [C@48974e45
+2018-09-10 01:44:45 INFO  BaseTest:52 - Check that Update is done successfully
+2018-09-10 01:44:46 INFO  BaseTest:57 - Check that update gist is retrieved
+2018-09-10 01:44:46 INFO  BaseTest:61 - Check that newly added word exist in the file dedscription
+2018-09-10 01:44:46 INFO  BaseTest:72 - Check that the created gist is deleted successfully
+2018-09-10 01:44:47 INFO  BaseTest:77 - Check that the deleted gist is deleted already and we get not found code
+2018-09-10 01:44:48 INFO  BaseTest:51 - Create Headers for all requests
+2018-09-10 01:44:51 INFO  BaseTest:51 - Check that the gist created by someone else cannot be deleted
+2018-09-10 01:44:51 INFO  BaseTest:81 - Create JSON Payload with blank filename and description
+2018-09-10 01:44:51 INFO  BaseTest:90 - Create URL created is https://api.github.com/gists
+2018-09-10 01:44:51 INFO  BaseTest:95 - Check that the created gist cannot be created
+2018-09-10 01:44:53 INFO  BaseTest:117 - Check that Gist with different owner can be starred
+2018-09-10 01:44:53 INFO  BaseTest:24 - Create a new gist with more than 300 file with pattern file<i>
+2018-09-10 01:44:57 INFO  BaseTest:29 - Check that the created gist has tuncated value as true
+2018-09-10 01:44:57 INFO  BaseTest:63 - Create an authorization code with dummy values
+2018-09-10 01:44:58 INFO  BaseTest:69 - Check that the gist is not created with wrong authorization
+2018-09-10 01:47:59 INFO  BaseTest:51 - Create Headers for all requests
+2018-09-10 01:47:59 INFO  BaseTest:17 - Create gist Operation Class
+2018-09-10 01:48:02 INFO  BaseTest:24 - Check Gist is created successfully
+2018-09-10 01:48:02 INFO  BaseTest:28 - Getting Gist ID from created Gist
+2018-09-10 01:48:03 INFO  BaseTest:34 - Check that newly created gist is retrieved
+2018-09-10 01:48:03 INFO  BaseTest:47 - Random word created [C@48974e45
+2018-09-10 01:48:03 INFO  BaseTest:48 - Update the Gist created with the new random word in file descriptions [C@48974e45
+2018-09-10 01:48:05 INFO  BaseTest:52 - Check that Update is done successfully
+2018-09-10 01:48:06 INFO  BaseTest:57 - Check that update gist is retrieved
+2018-09-10 01:48:06 INFO  BaseTest:61 - Check that newly added word exist in the file dedscription
+2018-09-10 01:48:06 INFO  BaseTest:72 - Check that the created gist is deleted successfully
+2018-09-10 01:48:07 INFO  BaseTest:77 - Check that the deleted gist is deleted already and we get not found code
+2018-09-10 01:48:08 INFO  BaseTest:51 - Create Headers for all requests
+2018-09-10 01:48:10 INFO  BaseTest:51 - Check that the gist created by someone else cannot be deleted
+2018-09-10 01:48:10 INFO  BaseTest:81 - Create JSON Payload with blank filename and description
+2018-09-10 01:48:10 INFO  BaseTest:90 - Create URL created is https://api.github.com/gists
+2018-09-10 01:48:11 INFO  BaseTest:95 - Check that the created gist cannot be created
+2018-09-10 01:48:14 INFO  BaseTest:117 - Check that Gist with different owner can be starred
+2018-09-10 01:48:14 INFO  BaseTest:24 - Create a new gist with more than 300 file with pattern file<i>
+2018-09-10 01:48:17 INFO  BaseTest:29 - Check that the created gist has tuncated value as true
+2018-09-10 01:48:17 INFO  BaseTest:63 - Create an authorization code with dummy values
+2018-09-10 01:48:18 INFO  BaseTest:69 - Check that the gist is not created with wrong authorization
